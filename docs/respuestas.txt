@@ -1,2 +1,4 @@
 Trabajo en equipo con git
 El compilador compila todo el programa de una vez, sin embargo el interprete lee y compila una por una las instrucciones del programa fuente en el orden de ejecucion.
+La diferencia entre ambos ficheros es que el fichero helloworld.sh esta escrito en un lenguaje de programacion mas cercano a la maquina y sin embargo el fichero helloworld.rb no.
+La primera linea es una llamada al interprete de comandos bash que permite ejecutar y compilar el conjunto de comandos que se encuentren en el codigo fuente del fichero.
