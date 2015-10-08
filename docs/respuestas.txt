@@ -1,1 +1,2 @@
 Trabajo en equipo con git
+El compilador compila todo el programa de una vez, sin embargo el interprete lee y compila una por una las instrucciones del programa fuente en el orden de ejecucion.
